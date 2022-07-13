@@ -1,0 +1,18 @@
+
+
+.heading {
+    width: 100%;
+    font-size: 25px;
+    font-family: 'Arvo', serif;
+    margin-top: 0px;
+    box-shadow: 5px 5px 5px lightcoral;
+    background-color: lightgreen;
+    color: lightskyblue;
+}
+
+canvas {
+    border-radius: 20px;
+    box-shadow: 6px 6px 6px lightsalmon;
+    border: 5px ridge lightgoldenrodyellow;
+    margin-top: 3cm;
+}
